@@ -1,1 +1,1 @@
-This is a repo for testing deployment eith terraform.
+This is a repo for testing deployment with terraform.
