@@ -1,14 +1,14 @@
 variable "prefix" {
-    default = "raa"
-  
+  default = "raa"
+
 }
 
 variable "project" {
-    default = "recipe-app-api"
-  
+  default = "recipe-app-api"
+
 }
 
 variable "contact" {
-    default = "jons@example.com"
-  
+  default = "jons@example.com"
+
 }
